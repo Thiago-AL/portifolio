@@ -3,7 +3,7 @@
 ## descriçâo
 Este e um projeto da faculdade para exercitar comandos git. e interação com github
 
- ### Permissão para uso educasional
+ ### Permissão para uso educacional
  
 
  
